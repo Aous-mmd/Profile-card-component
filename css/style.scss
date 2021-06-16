@@ -1,0 +1,19 @@
+@font-face {
+    font-family: K;
+    src: url(../fonts/KumbhSans-Regular.ttf);
+}
+
+@font-face {
+    font-family: KB;
+    src: url(../fonts/KumbhSans-Bold.ttf);
+}
+
+@font-face {
+    font-family: KL;
+    src: url(../fonts/KumbhSans-Light.ttf);
+}
+
+$dark_cyan:hsl(185, 75%, 39%);
+$vdark_blue: hsl(229, 23%, 23%);
+$dark_blue: hsl(227, 10%, 46%);
+$dark_grey: hsl(0, 0%, 59%);
